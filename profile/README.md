@@ -1,9 +1,9 @@
-## Hi there 👋
+## Swipoo Engineering Team 
 
-#### We are Swipoo Engineering Team
+Here you will be able to find swipoo's main tech resources to start contributing to the projects.
 
-🙋‍♀️ A short introduction - what is your organization all about?  
-🌈 Contribution guidelines - how can the community get involved?  
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?  
-🍿 Fun facts - what does your team eat for breakfast?  
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/). 
+### Coding Guidelines
+
+### Resources
+
+🙋‍♀️ work in progress... 
